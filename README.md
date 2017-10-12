@@ -1,1 +1,1 @@
-# devmindset
+# devmindset is repo
